@@ -1,0 +1,16 @@
+C:\Users\Talas\source\repos\MTALauncher\MTALauncher\bin\Debug\MTALauncher.exe.config
+C:\Users\Talas\source\repos\MTALauncher\MTALauncher\bin\Debug\MTALauncher.exe
+C:\Users\Talas\source\repos\MTALauncher\MTALauncher\bin\Debug\MTALauncher.pdb
+C:\Users\Talas\source\repos\MTALauncher\MTALauncher\obj\Debug\MTALauncher.csproj.AssemblyReference.cache
+C:\Users\Talas\source\repos\MTALauncher\MTALauncher\obj\Debug\MTALauncher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Talas\source\repos\MTALauncher\MTALauncher\obj\Debug\MTALauncher.launcher.resources
+C:\Users\Talas\source\repos\MTALauncher\MTALauncher\obj\Debug\MTALauncher.loading.resources
+C:\Users\Talas\source\repos\MTALauncher\MTALauncher\obj\Debug\MTALauncher.Properties.Resources.resources
+C:\Users\Talas\source\repos\MTALauncher\MTALauncher\obj\Debug\MTALauncher.csproj.GenerateResource.cache
+C:\Users\Talas\source\repos\MTALauncher\MTALauncher\obj\Debug\MTALauncher.csproj.CoreCompileInputs.cache
+C:\Users\Talas\source\repos\MTALauncher\MTALauncher\obj\Debug\MTALauncher.exe
+C:\Users\Talas\source\repos\MTALauncher\MTALauncher\obj\Debug\MTALauncher.pdb
+C:\Users\Talas\source\repos\MTALauncher\MTALauncher\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Talas\source\repos\MTALauncher\MTALauncher\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Talas\source\repos\MTALauncher\MTALauncher\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Talas\source\repos\MTALauncher\MTALauncher\obj\Debug\MTALauncher.csproj.CopyComplete
